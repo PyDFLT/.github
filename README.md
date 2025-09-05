@@ -1,1 +1,1 @@
-A Python-based Decision-Focused Learning Toolbox to help researchers. To be published soon!
+This repo exists to be able to adjust the landing page of github.com/PyDFLT
